@@ -118,6 +118,7 @@ class SingleProduct extends Component {
                         </button>
                     </Link>
                     <h4 className="sp-desc">{product.description}</h4>
+                    <h4 className="sp-id">{`ID: ${product.id}`} </h4>
                 </div>
             </section>
         )

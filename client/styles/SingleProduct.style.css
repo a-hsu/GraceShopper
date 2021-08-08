@@ -38,6 +38,10 @@
     margin-top: 5px;
     margin-bottom: 5px;
 }
+.sp-id {
+    font-weight: lighter;
+    margin: 0;
+}
 .sp-addtocart {
     border: none;
     margin-top: 10px;
